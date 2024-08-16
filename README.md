@@ -14,7 +14,7 @@ Welcome to the CodeSpace Pets Instagram Profile project, where you'll get hands-
 - Practice using basic HTML and CSS to create a cohesive user interface.
 
 **Project Requirements:**
-
+ 
 1. **Start with Provided HTML**: You'll begin with a starter HTML code provided in the project. 
 2. **CSS Styling**: Your task is to write CSS code to style the HTML elements and create the desired layout. Pay attention to the following:
     - Positioning and styling the profile image.
