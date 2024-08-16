@@ -21,3 +21,23 @@ body {
 img {
     display: block;
 }
+
+/* Profile section */
+
+.profile-image{
+    border: 8px solid rgb(4, 104, 104);
+    border-radius: 80px;
+    width: 350px;
+    
+}
+
+/* GRID */
+
+.gallery {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 3rem;
+}
+
+
+
