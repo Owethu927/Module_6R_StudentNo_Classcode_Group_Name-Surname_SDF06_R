@@ -20,24 +20,20 @@ body {
 
 img {
     display: block;
+    max-width: 100%;
 }
 
 /* Profile section */
 
-.profile-image{
-    border: 8px solid rgb(4, 104, 104);
-    border-radius: 80px;
-    width: 350px;
-    
-}
-
-/* GRID */
-
-.gallery {
+.container {
     display: grid;
-    grid-template-columns: auto auto auto;
-    gap: 3rem;
 }
 
-
+.profile-image {
+    border-radius: 50%;
+    border: 10px solid rgb(8, 82, 82);
+    width: 350px;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
 
